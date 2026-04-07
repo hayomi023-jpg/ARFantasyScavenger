@@ -1,0 +1,30 @@
+# Unity
+/[Ll]ibrary
+/[Tt]emp
+/[Oo]bj
+/[Bb]uild
+/[Bb]uilds
+/[Ll]ogs
+/[Uu]ser[Ss]ettings
+/[Aa]ssets/[Ee]xternal
+/[Aa]ssets/[Pp]lugins
+/[Aa]ssets/[Tt]hirdParty
+
+# Visual Studio
+*.userprefs
+*.user
+*.suo
+*.sln.docstates
+
+# Visual Studio Code
+.vscode
+
+# Mac
+.DS_Store
+
+# Builds output
+Builds
+
+# NuGet
+NuGet
+*.nupkg
